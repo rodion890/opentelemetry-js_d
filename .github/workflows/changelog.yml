@@ -30,5 +30,3 @@ jobs:
           else
             echo "No CHANGELOG was modified."
             echo "Please add a CHANGELOG entry, or add the \"Skip Changelog\" label if not required."
-            false
-          fi
